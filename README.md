@@ -1,4 +1,4 @@
-# 🚀 한 줄 소개
+# 🐦 한 줄 소개
 **Overcome, or you will become like it.**
 
 안녕하세요! 성장과 도전을 즐기는 개발자입니다.
