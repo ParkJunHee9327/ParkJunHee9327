@@ -5,7 +5,7 @@
 
 <br>
 
-# 🖋️ 기술 스택
+# 🪶 기술 스택
 ### Core Stack
 * **Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white), ![JavaScript](https://img.shields.io/badge/javaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 * **Frameworks:** ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white), ![Spring Boot](https://img.shields.io/badge/spring--boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white), ![Spring Security](https://img.shields.io/badge/Spring--Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -19,7 +19,7 @@
 
 <br>
 
-# 📫 소통 창구
+# 🕊️ 소통 창구
 * 📧 **Email:** [umpa9327@gmail.com](mailto:umpa9327@gmail.com)
 * 💻 **Tech Blog:** [parkjunhee9327.github.io](https://parkjunhee9327.github.io/)
 * 📔 **Study Style:** [Spring Security Deep Dive](https://resonant-tortellini-b95.notion.site/Spring-Security-1f22e2fc4ece818d85b6c33aa906d9b7)
