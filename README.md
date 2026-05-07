@@ -1,7 +1,7 @@
 # 🐦 한 줄 소개
 **Overcome, or you will become like it.**
 
-도전과 성장으로 날아오르는 개발자입니다.
+도전과 성장을 즐기며 날아오르는 개발자입니다.
 
 <br>
 
