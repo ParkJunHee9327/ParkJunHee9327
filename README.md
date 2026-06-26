@@ -22,7 +22,6 @@
 # 🕊️ 소통 창구
 * 📧 **Email:** [umpa9327@gmail.com](mailto:umpa9327@gmail.com)
 * 💻 **Tech Blog:** [parkjunhee9327.github.io](https://parkjunhee9327.github.io/)
-* 📔 **Study Style:** [Spring Security Deep Dive](https://resonant-tortellini-b95.notion.site/Spring-Security-1f22e2fc4ece818d85b6c33aa906d9b7)
 
 
 
